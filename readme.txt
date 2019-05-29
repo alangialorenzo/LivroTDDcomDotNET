@@ -10,6 +10,6 @@ Caso você precise realizar testes de unidade ou deseje praticar TDD em tais ver
 este repositório mostra como fazer isso com o NUnit.
 
 Em versões antigas do Visual Studio você precisa do NUnit 2.7.0:
-https://github.com/nunit-legacy/nunitv2/releases
+https://github.com/nunit-legacy/nunitv2/releases/tag/2.7.0
 
 Em versões recentes do Visual Studio o NUnit já vem integrado à IDE.
